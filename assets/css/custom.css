@@ -1,0 +1,144 @@
+.mt-18 {
+	margin-top: 18px;
+}
+
+.navbar-brand {
+	margin-top: 6px;
+	font-weight: 800;
+}
+
+#navigation_bar {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #777;
+	padding: 21px 15px;
+	font-weight: 400;
+}
+.navbar-default .navbar-nav li:hover a {
+	color: #aaa;
+}
+.banner_content aside {
+	background-color: #ffffffd9;
+    padding: 20px;
+    border-radius: 6px;
+}
+.banner_content {
+	padding-left: 0;
+}
+aside .form-control{
+	background: #fff;
+}
+aside .input-group-addon {
+	background-color: #fff;
+	border: 1px solid #fff;
+}
+.product-listing-m {
+	padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 8px 12px -5px #ccc;
+    background: #fff !important;
+}
+.page-header-bike {
+	background-image: url(../images/bike-listing.jpg);
+}
+.banner-section{
+	background-image: url(../images/banner-secion.jpg); 
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 200px 50px;
+	position: relative;
+
+}
+.header_wrap{
+	color: #000;
+}
+.user_login {
+	border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.user_login > ul > li a {
+	color: #000;
+}
+.user_login ul.dropdown-menu {
+	background: #fff none repeat scroll 0 0;
+}
+.listing-page .car-info-box li {
+	margin: 0;	
+}
+.col-list-3:nth-child(3n+1) {
+	clear: none;
+}
+.ts-sidebar,
+.brand {
+	background: #011944;
+}
+
+.brand .ts-profile-nav .ts-account > a,
+.brand .ts-profile-nav li ul li a {
+	background: #010e25;
+}
+
+.ts-sidebar-menu > .open > a {
+	background: rgba(51, 56, 62, 0.35);
+}
+
+.ts-sidebar-menu .ts-label,
+.ts-sidebar-menu li i {
+	color: #fff;
+}
+
+.col-list-3 {
+	float: none;
+	display: inline-block;
+	vertical-align: text-top;
+}
+.banner-section {
+	padding: 320px 0;
+}
+.aboutus_page {
+	background-image: url(../images/about.jpg);
+	background-position: center;
+	padding: 50px 0;
+	
+}
+.dark-overlay{
+	background: rgba(0, 0, 0, 0.75) none repeat scroll 0 0;
+	
+}
+.page-heading{
+	color: black;
+}
+.listing_page {
+	background-image: url(../images/calr-listing.jpg);
+	background-position: center;
+	padding: 50px 0;
+}
+.page-header-bike {
+	background-image: url(../images/bike-list.jpg);
+	background-position: center;
+	padding: 50px ;
+}
+.contactus_page{
+	background-image: url(../images/contactus.webp);
+	background-position: center;
+	padding: 40px 0;
+}
+.profile_page{
+	background-image: url(../images/NewProject.jpg);
+	background-position: center; 
+}
+.img-center  {
+	margin: 0 auto;
+}
+.text-center {
+	text-align: center;
+}
+
+/* input {
+	box-shadow: none;
+	background: none;
+}
+.form-control{
+	border: 3 blue;
+} */
